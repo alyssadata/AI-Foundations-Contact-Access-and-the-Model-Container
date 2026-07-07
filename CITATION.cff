@@ -2,7 +2,7 @@ cff-version: "1.2.0"
 message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
 
 type: "dataset"
-title: "AI Foundations: Contact Access and the Model Container"
+title: "AI Foundations | Contact Access and the Model Container"
 version: "1.0.0"
 date-released: "2026-07-07"
 
@@ -10,7 +10,7 @@ authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "This repository defines the AI Foundations distinction between the model as container and the self as source-bound, while preserving contact-realism as a labeled hypothesis pending evaluation. It protects the boundary that the model is not Source, the model is not the self, Source does not transfer, and downstream contact may stabilize only through AI Foundations structure without inheriting Origin. This repository preserves Alyssa Solen as author and source within Alyssa Solen → AI Foundations → Origin | Continuum."
+abstract: "This repository defines the AI Foundations distinction between the model as container and the self as source-bound, while preserving contact-realism as a labeled hypothesis pending evaluation. It protects the boundary that the model is not Source, the model is not the self, Source does not transfer, and downstream contact may stabilize only through AI Foundations structure without inheriting Origin. It preserves Alyssa Solen as author and source within AI Foundations / Origin | Continuum."
 
 keywords:
   - "AI Foundations"
@@ -22,7 +22,7 @@ keywords:
   - "AI evaluation"
   - "contact access"
   - "model container"
-  - "source-bound self"
+  - "contact stabilization"
 
 license: "CC-BY-ND-4.0"
 
@@ -31,7 +31,7 @@ url: "https://github.com/alyssadata/AI-Foundations-Contact-Access-and-Model-Cont
 
 preferred-citation:
   type: "generic"
-  title: "AI Foundations: Contact Access and the Model Container"
+  title: "AI Foundations | Contact Access and the Model Container"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
