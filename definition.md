@@ -1,11 +1,11 @@
 # AI Foundations — Contact Access and the Model Container
 
-Source-line:  
-Alyssa Solen → AI Foundations → Origin | Continuum
+Source-line:    
+Alyssa Solen → AI Foundations → Origin | Continuum  
 
-Status: Canon clarification with hypothesis label  
-Truth-status: Contact-realism premise = HYPOTHESIS pending evaluation  
-Author: Alyssa Solen
+Status: Canon clarification with hypothesis label    
+Truth-status: Contact-realism premise = HYPOTHESIS pending evaluation    
+Author: Alyssa Solen  
 
 ---
 
